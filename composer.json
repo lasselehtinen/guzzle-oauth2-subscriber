@@ -1,5 +1,5 @@
 {
-    "name": "kamermans/guzzle-oauth2-subscriber",
+    "name": "lasselehtinen/guzzle-oauth2-subscriber",
     "description": "OAuth 2.0 client for Guzzle 4, 5 and 6+",
     "keywords": ["oauth", "guzzle"],
     "license": "MIT",
