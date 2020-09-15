@@ -1,6 +1,6 @@
 <?php
 
-namespace kamermans\OAuth2\Exception;
+namespace lasselehtinen\OAuth2\Exception;
 
 class AccessTokenRequestException extends ReauthorizationRequestException
 {

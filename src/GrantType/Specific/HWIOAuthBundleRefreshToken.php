@@ -1,6 +1,6 @@
 <?php
 
-namespace kamermans\OAuth2\GrantType\Specific;
+namespace lasselehtinen\OAuth2\GrantType\Specific;
 
 use kamermans\OAuth2\Signer\ClientCredentials\SignerInterface;
 use HWI\Bundle\OAuthBundle\Security\Http\ResourceOwnerMap;

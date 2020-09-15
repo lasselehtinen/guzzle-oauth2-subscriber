@@ -1,6 +1,6 @@
 <?php
 
-namespace kamermans\OAuth2\Persistence;
+namespace lasselehtinen\OAuth2\Persistence;
 
 use Doctrine\Common\Cache\Cache;
 use kamermans\OAuth2\Token\TokenInterface;

@@ -1,6 +1,6 @@
 <?php
 
-namespace kamermans\OAuth2\Signer\AccessToken;
+namespace lasselehtinen\OAuth2\Signer\AccessToken;
 
 interface SignerInterface
 {

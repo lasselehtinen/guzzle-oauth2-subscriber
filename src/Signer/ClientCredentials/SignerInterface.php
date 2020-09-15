@@ -1,6 +1,6 @@
 <?php
 
-namespace kamermans\OAuth2\Signer\ClientCredentials;
+namespace lasselehtinen\OAuth2\Signer\ClientCredentials;
 
 interface SignerInterface
 {

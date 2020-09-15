@@ -1,6 +1,6 @@
 <?php
 
-namespace kamermans\OAuth2\Persistence;
+namespace lasselehtinen\OAuth2\Persistence;
 
 use kamermans\OAuth2\Token\TokenInterface;
 use Psr\SimpleCache\CacheInterface;

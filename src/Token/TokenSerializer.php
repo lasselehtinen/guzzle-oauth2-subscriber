@@ -1,6 +1,6 @@
 <?php
 
-namespace kamermans\OAuth2\Token;
+namespace lasselehtinen\OAuth2\Token;
 
 trait TokenSerializer
 {

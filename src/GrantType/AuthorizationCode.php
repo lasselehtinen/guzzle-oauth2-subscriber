@@ -1,6 +1,6 @@
 <?php
 
-namespace kamermans\OAuth2\GrantType;
+namespace lasselehtinen\OAuth2\GrantType;
 
 use GuzzleHttp\Post\PostBody;
 use GuzzleHttp\ClientInterface;

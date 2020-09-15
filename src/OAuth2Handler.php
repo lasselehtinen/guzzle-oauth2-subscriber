@@ -1,6 +1,6 @@
 <?php
 
-namespace kamermans\OAuth2;
+namespace lasselehtinen\OAuth2;
 
 use GuzzleHttp\Exception\BadResponseException;
 use kamermans\OAuth2\GrantType\GrantTypeInterface;

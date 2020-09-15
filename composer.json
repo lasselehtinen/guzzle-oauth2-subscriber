@@ -15,12 +15,12 @@
     },
     "autoload": {
         "psr-4": {
-            "kamermans\\OAuth2\\": "src"
+            "lasselehtinen\\OAuth2\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "kamermans\\OAuth2\\Tests\\": "tests"
+            "lasselehtinen\\OAuth2\\Tests\\": "tests"
         }
     }
 }

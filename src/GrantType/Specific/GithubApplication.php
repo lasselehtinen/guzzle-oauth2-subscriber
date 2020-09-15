@@ -1,6 +1,6 @@
 <?php
 
-namespace kamermans\OAuth2\GrantType\Specific;
+namespace lasselehtinen\OAuth2\GrantType\Specific;
 
 use GuzzleHttp\ClientInterface;
 use kamermans\OAuth2\Utils\Collection;

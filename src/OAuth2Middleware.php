@@ -1,6 +1,6 @@
 <?php
 
-namespace kamermans\OAuth2;
+namespace lasselehtinen\OAuth2;
 
 use Psr\Http\Message\RequestInterface;
 

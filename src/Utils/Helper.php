@@ -1,6 +1,6 @@
 <?php
 
-namespace kamermans\OAuth2\Utils;
+namespace lasselehtinen\OAuth2\Utils;
 
 use GuzzleHttp\ClientInterface as G;
 
